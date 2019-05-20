@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a74e7ae-94f0-4abd-acb5-4fe46cb2e725" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="serg_sweet_coffie1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SergCoffieApp/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SergCoffieApp/SweetCoffeeMock.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="643">
+              <caret line="88" column="23" lean-forward="true" selection-start-line="88" selection-start-column="23" selection-end-line="88" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>item</find>
+      <find>out</find>
+      <find>makind</find>
+      <find>23.6.0</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Header.js" />
+        <option value="$PROJECT_DIR$/src/DrinksSelectMenu.js" />
+        <option value="$PROJECT_DIR$/src/MyHeader.js" />
+        <option value="$PROJECT_DIR$/src/statusBarData.js" />
+        <option value="$PROJECT_DIR$/test.js" />
+        <option value="$PROJECT_DIR$/src/MySlider2.js" />
+        <option value="$PROJECT_DIR$/src/TestSlider.js" />
+        <option value="$PROJECT_DIR$/src/SweetCoffeeMock.js" />
+        <option value="$PROJECT_DIR$/src/Conditional.js" />
+        <option value="$PROJECT_DIR$/src/SliderFunction.js" />
+        <option value="$PROJECT_DIR$/src/ComponentSelectMenu.js" />
+        <option value="$PROJECT_DIR$/src/StatusBar.js" />
+        <option value="$PROJECT_DIR$/src/StatusBarMessage.js" />
+        <option value="$PROJECT_DIR$/src/MySlider.css" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/drinksData.js" />
+        <option value="$PROJECT_DIR$/src/DrinkItem.js" />
+        <option value="$PROJECT_DIR$/src/componentsData.js" />
+        <option value="$PROJECT_DIR$/src/MySlider.js" />
+        <option value="$PROJECT_DIR$/src/App.css" />
+        <option value="$PROJECT_DIR$/src/DrinkSelectMenu.js" />
+        <option value="$PROJECT_DIR$/src/Application/DrinkSelectMenu.js" />
+        <option value="$PROJECT_DIR$/src/Application/App.js" />
+        <option value="$PROJECT_DIR$/src/Temp/MySlider.css" />
+        <option value="$PROJECT_DIR$/src/CSS/App.css" />
+        <option value="$PROJECT_DIR$/src/CSS/MySlider.css" />
+        <option value="$PROJECT_DIR$/src/DataSource/componentsData.js" />
+        <option value="$PROJECT_DIR$/src/DataSource/statusBarData.js" />
+        <option value="$PROJECT_DIR$/src/DataSource/drinkComponentsPresenceSwitch.js" />
+        <option value="$PROJECT_DIR$/src/DataSource/drinkSliderData.js" />
+        <option value="$PROJECT_DIR$/src/CSS/ErrorAlert.css" />
+        <option value="$PROJECT_DIR$/src/DataSource/errorMessageData.js" />
+        <option value="$PROJECT_DIR$/src/DataSource/drinkButtonData.js" />
+        <option value="$PROJECT_DIR$/src/SergCoffieApp/StatusBarMessage.js" />
+        <option value="$PROJECT_DIR$/src/DataSource/supplementPresenceSwitch.js" />
+        <option value="$PROJECT_DIR$/src/SergCoffieApp/App.js" />
+        <option value="$PROJECT_DIR$/src/SergCoffieApp/ComponentSelectMenu.js" />
+        <option value="$PROJECT_DIR$/src/SergCoffieApp/DrinkItem.js" />
+        <option value="$PROJECT_DIR$/src/SergCoffieApp/ErrorAlert.js" />
+        <option value="$PROJECT_DIR$/src/SergCoffieApp/MyHeader.js" />
+        <option value="$PROJECT_DIR$/src/SergCoffieApp/MySlider.js" />
+        <option value="$PROJECT_DIR$/src/SergCoffieApp/StatusBar.js" />
+        <option value="$PROJECT_DIR$/src/SergCoffieApp/DrinkSelectMenu.js" />
+        <option value="$PROJECT_DIR$/src/SergCoffieApp/SweetCoffeeMock.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="16" />
+    <option name="y" value="3" />
+    <option name="width" value="1304" />
+    <option name="height" value="1015" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="serg_sweet_coffee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="serg_sweet_coffee" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="serg_sweet_coffee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="serg_sweet_coffee" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="serg_sweet_coffee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="serg_sweet_coffee" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DataSource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="serg_sweet_coffee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="serg_sweet_coffee" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="SergCoffieApp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="serg_sweet_coffee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="serg_sweet_coffee" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="C:/Program Files/nodejs/node_modules/npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\@react_projects\serg_sweet_coffie1\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\@react_projects\serg_sweet_coffie1\src\CSS" />
+      <recent name="C:\@react_projects\serg_sweet_coffie1\src\Temp" />
+      <recent name="C:\@react_projects\serg_sweet_coffie1\src\Application" />
+      <recent name="C:\@react_projects\serg_sweet_coffie1\src\DataSource" />
+      <recent name="C:\@react_projects\serg_sweet_coffie1\src\Pictures" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Jest.App.test.js">
+    <configuration name="App.test.js" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST_FILE" />
+      <test-file value="$PROJECT_DIR$/src/Test/App.test.js" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="eject" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="eject" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.Debug Application" />
+      <item itemvalue="Jest.App.test.js" />
+      <item itemvalue="npm.npm start" />
+      <item itemvalue="npm.build" />
+      <item itemvalue="npm.test" />
+      <item itemvalue="npm.eject" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.test" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.eject" />
+        <item itemvalue="Jest.App.test.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a74e7ae-94f0-4abd-acb5-4fe46cb2e725" name="Default Changelist" comment="" />
+      <created>1554121182481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554121182481</updated>
+      <workItem from="1554121183838" duration="30627000" />
+      <workItem from="1554191870767" duration="4234000" />
+      <workItem from="1554196137869" duration="13741000" />
+      <workItem from="1554214638398" duration="3681000" />
+      <workItem from="1554224389252" duration="362000" />
+      <workItem from="1554282829646" duration="3312000" />
+      <workItem from="1554286298094" duration="302000" />
+      <workItem from="1554375112071" duration="7978000" />
+      <workItem from="1554491703577" duration="8684000" />
+      <workItem from="1554503249894" duration="529000" />
+      <workItem from="1554538314502" duration="13214000" />
+      <workItem from="1554562430397" duration="2578000" />
+      <workItem from="1554569020980" duration="4921000" />
+      <workItem from="1554583136008" duration="5000" />
+      <workItem from="1554721491617" duration="14251000" />
+      <workItem from="1554799118107" duration="2970000" />
+      <workItem from="1554802104723" duration="2206000" />
+      <workItem from="1554977717105" duration="19268000" />
+      <workItem from="1555061000888" duration="7733000" />
+      <workItem from="1555322379874" duration="8485000" />
+      <workItem from="1555348734741" duration="20378000" />
+      <workItem from="1555401720498" duration="9406000" />
+      <workItem from="1555486858027" duration="10997000" />
+      <workItem from="1555516112129" duration="1190000" />
+      <workItem from="1555672033009" duration="21557000" />
+      <workItem from="1556104554731" duration="14946000" />
+      <workItem from="1556267108936" duration="756000" />
+      <workItem from="1556269165558" duration="340000" />
+      <workItem from="1556269525074" duration="5545000" />
+      <workItem from="1556281556961" duration="1209000" />
+      <workItem from="1556282781218" duration="313000" />
+      <workItem from="1556283109960" duration="2318000" />
+      <workItem from="1556285468906" duration="4205000" />
+      <workItem from="1556303710503" duration="111000" />
+      <workItem from="1556303850306" duration="25000" />
+      <workItem from="1556303949730" duration="1406000" />
+      <workItem from="1556305510765" duration="314000" />
+      <workItem from="1556305843253" duration="269000" />
+      <workItem from="1556306251170" duration="414000" />
+      <workItem from="1556306859798" duration="484000" />
+      <workItem from="1556307430882" duration="502000" />
+      <workItem from="1556308093441" duration="3856000" />
+      <workItem from="1557495043981" duration="830000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="App_test_js - 2019.04.26 at 14h 17m 35s.xml">
+      <configuration name="App.test.js" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="250452000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1696" height="1036" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7502838" visible="true" weight="0.23100121" />
+      <window_info id="Structure" order="1" sideWeight="0.27742946" side_tool="true" weight="0.18395658" />
+      <window_info id="npm" order="2" sideWeight="0.24971624" side_tool="true" visible="true" weight="0.23100121" />
+      <window_info id="Favorites" order="3" sideWeight="0.27742946" side_tool="true" weight="0.18395658" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.25312147" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49758744" weight="0.16799092" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49879372" weight="0.37457433" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" show_stripe_button="false" sideWeight="0.49879372" weight="0.32964602" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49939686" weight="0.3291714" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5030157" side_tool="true" weight="0.17026107" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49698433" weight="0.2996595" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../test1-old/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="37" column="5" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/@Stack NOVI/React Projects/React final project/Afbeeldingen/SweetCoffeeMock.js" />
+    <entry file="file://$PROJECT_DIR$/test.js" />
+    <entry file="file://$PROJECT_DIR$/src/MySlider2.js" />
+    <entry file="file://$PROJECT_DIR$/src/logo.svg" />
+    <entry file="file://$USER_HOME$/Desktop/react-slider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1581" />
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="306" column="8" selection-start-line="306" selection-start-column="8" selection-end-line="306" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CSS/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="79" column="14" selection-start-line="78" selection-start-column="4" selection-end-line="79" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Temp/TestSlider.js" />
+    <entry file="file://$PROJECT_DIR$/src/Temp/SliderFunction.js" />
+    <entry file="file://$PROJECT_DIR$/src/SergCoffieApp/StatusBarMessage.js" />
+    <entry file="file://$PROJECT_DIR$/src/Temp/Conditional.js" />
+    <entry file="file://$PROJECT_DIR$/src/serviceWorker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11351" column="29" selection-start-line="11351" selection-start-column="23" selection-end-line="11351" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CSS/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CSS/ErrorAlert.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CSS/MySlider.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataSource/supplementPresenceSwitch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SergCoffieApp/ErrorAlert.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SergCoffieApp/MyHeader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SergCoffieApp/StatusBar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SergCoffieApp/ComponentSelectMenu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="37" column="30" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/App.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pictures/stop.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pictures/stopsmall.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/SergCoffieApp/MySlider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="44" lean-forward="true" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SergCoffieApp/DrinkItem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataSource/errorMessageData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataSource/drinkSliderData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="17" selection-start-line="8" selection-start-column="8" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataSource/drinkButtonData.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SergCoffieApp/DrinkSelectMenu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="285" column="48" lean-forward="true" selection-start-line="285" selection-start-column="48" selection-end-line="285" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+            <element signature="e#1141#1459#0" />
+            <element signature="e#1511#1828#0" />
+            <element signature="e#1880#2092#0" />
+            <element signature="n#!!block;n#drinkIsPreparing#0;n#DrinkSelectMenu#0" />
+            <element signature="n#!!block;n#disableButtons#0;n#DrinkSelectMenu#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SergCoffieApp/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SergCoffieApp/SweetCoffeeMock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="643">
+          <caret line="88" column="23" lean-forward="true" selection-start-line="88" selection-start-column="23" selection-end-line="88" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,132 @@
+
+.Top-header {
+    opacity: 0.6;
+    font-family: "Niagara Engraved";
+    font-size: 110px;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 50px;
+    background-color: transparent;
+    color: whitesmoke;
+    width: 100px;
+    height: 50px;
+}
+
+.Statusbar-frame {
+    position: absolute;
+    width: 1175px;
+    background-color: burlywood;
+    opacity: 0.6;
+    margin-top: 680px;
+    margin-bottom: 55px;
+    margin-right: 55px;
+    margin-left: 50px;
+}
+
+.Status-bar {
+    text-align: center;
+    font-family: "Times New Roman";
+    font-size: 30px;
+    position: relative;
+    background-color: transparent;
+    color: black;
+
+}
+
+.Slider-active-text {
+    opacity: 1;
+    position: inherit;
+    height: 80px;
+    font-size: x-large;
+    font-style: italic;
+    font-weight: bold
+}
+
+.Slider-passive-text {
+    opacity: 0.3;
+    position: inherit;
+    height: 80px;
+    font-size: x-large;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.BtnBackground-frame {
+    position: absolute;
+    width: 320px;
+    background-color: burlywood;
+    opacity: 0.6;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    margin-right: 50px;
+    margin-left: 905px;
+}
+
+.SliderBackground-frame {
+    position: absolute;
+    width: 320px;
+    height: 90px;
+    background-color: burlywood;
+    opacity: 0.6;
+    margin-top: 550px;
+    margin-bottom: 10px;
+    margin-right: 50px;
+    margin-left: 905px;
+}
+
+.Stop-image {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.Stop-image-slider {
+    position: inherit;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -1%);
+}
+
+.My-active-button {
+    font-size: x-large;
+    font-style: italic;
+    font-weight: bold;
+    background-color: transparent;
+    color: black;
+    width: 290px;
+    height: 50px;
+    border-style: double;
+    border-color: black;
+    border-width: 6px;
+    margin: 13px;
+    text-align: center;
+    position: relative;
+}
+
+.My-active-button:active {
+    box-shadow: 3px 3px 3px gray;
+    top: 5px;
+}
+
+.My-passive-button {
+    font-size: x-large;
+    font-style: italic;
+    font-weight: bold;
+    background-color: transparent;
+    color: gray;
+    width: 290px;
+    height: 50px;
+    border-style: double;
+    border-color: black;
+    border-width: 6px;
+    margin: 13px;
+    text-align: center;
+    position: relative;
+}
+
+.My-passive-button:active {
+    box-shadow: 1px 1px 1px gray;
+    top: 0px;
+}
+
